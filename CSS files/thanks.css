@@ -1,0 +1,87 @@
+body{
+  background: url("https://media.istockphoto.com/id/135887442/photo/white-tissue-paper-background-with-geometric-design.webp?b=1&s=170667a&w=0&k=20&c=hbW4kQw0YDlK5wWG5_UvHYVaLuz0ZXZZdUhh5QHUmWo=") ;
+background-position: center;
+
+
+}
+.naavigation{
+    background-color: rgba(0, 0, 0, 0.653);
+    color: white;
+    font-weight: 600;
+    font-size:20px ;
+    padding: 10px;
+  
+  }
+  .nav-item .nav-link{
+    color: white;
+  }
+  .naavigation .btn-login a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+  }
+  .naavigation .btn-login{
+   border-radius: 60px;
+   width: 140px;
+  
+   
+  }
+  .naavigation .btn-login{
+    background-color: darkorange;
+  }
+  .naavigation .btn-login:hover{
+    background-color: white;
+    border: 2px solid darkorange;
+  
+  }
+  
+  .naavigation .btn-login a:hover{
+    color: black;
+  } 
+  .nav-item .nav-link:hover{
+  color: darkorange;
+  font-weight: bold;
+    text-decoration: darkorange underline;
+  
+  }
+
+  .foot{
+    background: url("../Images/pexels-pixabay-38570.jpg");
+    background-size: cover;
+}
+.foot a{
+    text-decoration: none;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+.cont {
+  
+    margin: 0 auto;
+    padding: 50px 20px;
+    text-align: center;
+}
+.cont h1 {
+    color: darkorange;
+    margin-bottom: 30px;
+}
+.cont p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.cont .btn {
+    background-color: darkorange;
+    color: #fff;
+    border: none;
+    padding: 10px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+.cont .btn:hover {
+    background-color: darkorange;
+}

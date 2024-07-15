@@ -1,0 +1,148 @@
+body{
+    overflow-x: hidden;
+
+      background: url("https://media.istockphoto.com/id/135887442/photo/white-tissue-paper-background-with-geometric-design.webp?b=1&s=170667a&w=0&k=20&c=hbW4kQw0YDlK5wWG5_UvHYVaLuz0ZXZZdUhh5QHUmWo=") ;
+  background-position: center;
+  
+  
+
+}
+
+.naavigation{
+    background-color: rgba(0, 0, 0, 0.653);
+    color: white;
+    font-weight: 600;
+    font-size:20px ;
+    padding: 10px;
+  
+  }
+  .nav-item .nav-link{
+    color: white;
+  }
+  .btn-login a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+  }
+  .btn-login{
+   border-radius: 60px;
+   width: 140px;
+  
+   
+  }
+  .btn-login{
+    background-color: darkorange;
+  }
+  .btn-login:hover{
+    background-color: white;
+    border: 2px solid darkorange;
+  
+  }
+  
+  .btn-login a:hover{
+    color: black;
+  } 
+  .nav-item .nav-link:hover{
+  color: darkorange;
+  font-weight: bold;
+    text-decoration: darkorange underline;
+  
+  }
+.carousel-caption {
+    bottom: 220px;
+  }
+  .carousel-caption h5 {
+    font-size: 55px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 25px;
+  }
+  .carousel-caption p {
+    width: 60%;
+    margin: auto;
+    font-size: 22px;
+    line-height: 1.9;
+  }
+a{
+    text-decoration: none;
+}
+
+  @media (max-width: 991px) {
+     .image-container {
+      margin-bottom: 2rem;
+    }
+  }
+  
+   .row {
+    flex-direction: row-reverse;
+  }
+  
+   .row {
+    align-items: center;
+  }
+  
+  @media (max-width: 991px) {
+     .image-container {
+      padding: 1rem;
+    }
+  }
+  
+  @media (min-width: 992px) {
+     .text-container {
+      padding: 0 2rem;
+    }
+  }
+  
+   .d_title {
+    color: black;
+    font-weight: 400;
+    
+  }
+  
+  
+   .section-text
+   {
+    color: black;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: rgba(255, 140, 0, 0.14);
+    padding: 10px;
+  
+  }
+  wrapper {
+    padding-top: 120px;
+    }
+    .card-img-top {
+    box-shadow: 0 5px 10px rgba(0,0,0,0.5);
+    }
+    .card-body{
+        text-align: center;
+        box-shadow: 0px 15px 15px -8px rgba(0,0,0,0.5)
+    }
+    .card-body h6 {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: deeppink;
+    }
+   .iimage:hover{
+    box-shadow: 0 0 4px 4px darkorange;
+   }
+    @media (max-width: 800px){
+      .iimage{
+          margin-bottom: 30px;
+      }
+  }
+  
+  .foot{
+    background: url("../Images/pexels-pixabay-38570.jpg");
+    background-size: cover;
+}
+@media only screen and (max-width: 767px) {
+  .carousel-caption {
+      bottom: 165px;
+  }
+  .carousel-caption h5 {
+      font-size: 17px;
+  }}

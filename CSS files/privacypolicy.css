@@ -1,0 +1,56 @@
+body{
+    background: url("https://media.istockphoto.com/id/135887442/photo/white-tissue-paper-background-with-geometric-design.webp?b=1&s=170667a&w=0&k=20&c=hbW4kQw0YDlK5wWG5_UvHYVaLuz0ZXZZdUhh5QHUmWo=") ;
+background-position: center;
+
+
+}
+.naavigation{
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    font-weight: 600;
+    font-size:20px ;
+    padding: 10px;
+    position: sticky;
+  
+  }
+  .nav-item .nav-link{
+    color: white;
+  }
+  .btn-login a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    
+  }
+  .btn-login{
+   border-radius: 60px;
+   width: 140px;
+  
+   
+  }
+  .btn-login{
+    background-color: darkorange;
+  }
+  .btn-login:hover{
+    background-color: white;
+    border: 2px solid darkorange;
+  
+  }
+  
+  .btn-login a:hover{
+    color: black;
+  } 
+  .nav-item .nav-link:hover{
+  color: darkorange;
+  font-weight: bold;
+    text-decoration: darkorange underline;
+  
+  }
+  a{
+    text-decoration: none;
+  }
+  .foot{
+    background: url("../Images/pexels-pixabay-38570.jpg");
+    background-size: cover;
+}
